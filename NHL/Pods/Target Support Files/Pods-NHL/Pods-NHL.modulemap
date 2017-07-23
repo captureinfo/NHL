@@ -1,0 +1,6 @@
+framework module Pods_NHL {
+  umbrella header "Pods-NHL-umbrella.h"
+
+  export *
+  module * { export * }
+}
